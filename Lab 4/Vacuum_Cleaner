@@ -1,17 +1,16 @@
 # Vacuum Cleaner
 
 def vacuum_cleaner(rooms, position, cost):
+    # Base case: If the vacuum is at either end, stop
+    if position < 0 or position >= N:
+        return cost
+
     print("At", position);
 
     if not rooms[position]:
         rooms[position] = True
         cost += 1
         print("Room Cleaned")
-
-    # Base case: If the vacuum is at either end, stop
-    if position < 0 or position >= N - 1:
-        return cost
-
 
 
     c = input("Move Right?");
