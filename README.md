@@ -10,4 +10,6 @@ Week 3: Iterative Deepening Search (IDS) Algorithm
 
 Week 4: Vacuum Cleaner Agent
 
-Week 5: A* Search Algorithm using Missing Tiles and Manhattan Distance heuristics
+Week 5: A* Search Algorithm using Missing Tiles and Manhattan Distance heuristics + Hill Climbing Algorithm (for 4 Queens)
+
+Week 6: Simulated Annealing Algorithm (for 8 Queens) (Used Dual Annealing for optimization)
