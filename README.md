@@ -25,3 +25,10 @@ Week 10: Min-Max Algorithm
 Week 11: Create a knowledge base consisting of first order logic statements and prove the given query using forward reasoning.
 
 Week 12:  Implement Alpha-Beta Pruning.
+
+
+
+------------------------------------------
+
+
+Lab Exam: contains the program and output for Lab CIE/Test.
