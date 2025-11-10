@@ -80,3 +80,7 @@ if __name__ == "__main__":
     print("=== Game Tree ===")
     print_tree(root)
 
+
+print()
+print("Name: Siddharth Arya")
+print("USN: 1BM23CS328")
